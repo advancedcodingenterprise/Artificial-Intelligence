@@ -1,2 +1,2 @@
-# ai
-Artificial Intelligence - Brain Algorithms, Mind Simulations, Solution Taking
+# Artificial Intelligence
+Brain Algorithms, Mind Simulations, Solution Taking
